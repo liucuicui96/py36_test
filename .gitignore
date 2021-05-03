@@ -1,0 +1,6 @@
+#存储git提交的过滤信息
+.pytest_cache/
+assets/
+security.yaml
+data/
+

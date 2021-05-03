@@ -1,0 +1,8 @@
+host: "http://api.keyou.site:8000"
+
+logger:
+  name: py36
+  logger_level: 'DEBUG'
+  stream_handler_leve: 'DEBUG'
+  file: "cekai.log"
+  file_handler_level: 'INFO'
